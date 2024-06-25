@@ -1,10 +1,10 @@
-package com.javatpoint.firstprogram;
+package com.example.SpringBootproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstProgramApplicationTests {
+class SpringBootProjectWithThymeleafAndDevToolsApplicationTests {
 
 	@Test
 	void contextLoads() {
